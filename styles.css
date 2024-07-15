@@ -46,3 +46,10 @@ nav ul li::after {
 nav ul li:hover:after {
   width: 100%;
 }
+
+@media screen {
+    .container{
+        min-width: 720px;
+    }
+
+}
